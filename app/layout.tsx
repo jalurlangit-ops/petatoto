@@ -3,7 +3,7 @@
 import { Inter } from 'next/font/google';
 import './globals.css';
 
-const nameDomain = "https://camnangphaidep.com";
+const nameDomain = "https://www.lingue247.com";
 
 const inter = Inter({
   variable: '--font-inter',
