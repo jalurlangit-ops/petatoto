@@ -57,15 +57,15 @@ export default function RootLayout({
       <head>
         <meta charSet="utf-8" />
         <title>Petatoto : Link Slot Yang Lagi Gacor Hari Ini Dan Link Slot Minimal Depo 10K</title>
-        <meta name="description" content="18toto hadir sebagai solusi bagi pecinta slot online yang mencari kemudahan dan kenyamanan dalam bermain. Dengan fitur slot deposit 3000 via Dana, Anda dapat menikmati permainan seru tanpa harus mengeluarkan modal besar" />
-        <meta name="keywords" content="18toto, Deposit Dana 5000k, Situs Judi Online, Dana Slot77, situs Slot Dana, Gopay 69 Slot, Situs Slot Deposit 5000, Situs Slot Gacor Hari Ini Via Dana, Slot Deposit 3000 Via Dana, Situs Slot Gacor Jam Ini" />
-        <meta name="google-site-verification" content="veMyOTuOGYmEQDMDDL9R58xwmmCMdesJMcTMkYDqZ3Q" />
-        <meta name="application-name" content="18toto" />
+        <meta name="description" content="Petatoto adalah situs slot online yang kini sedang jadi incaran para pemain karena memberikan pengalaman bermain yang sangat menguntungkan. Dengan menyediakan link slot yang lagi gacor hari ini, Petatoto memastikan pemain mendapatkan peluang besar untuk meraih kemenangan besar. Slot gacor adalah sebutan bagi mesin slot yang memberikan banyak kemenangan dalam jangka waktu tertentu" />
+        <meta name="keywords" content="Petatoto, Link Slot Yang Lagi Gacor Hari Ini, Link Slot Minimal Depo 10K, Link Gacor88, Deposit Via Dana, Situs Judi Online, Slot Gacor Malam Ini, Bocoran Link Slot Gacor Hari Ini, Link Slot Gacor Gampang Maxwin" />
+        <meta name="google-site-verification" content="66oyBI-LVmmcRJUVTEZ0OD_FafXh4xS42g1kCbF7kwc" />
+        <meta name="application-name" content="petatoto" />
         <link rel="author" href={nameDomain} />
         <link rel="canonical" href={nameDomain} />
-        <meta name="author" content="18toto" />
-        <meta name="publisher" content="18toto" />
-        <meta name="copyright" content="18toto" />
+        <meta name="author" content="petatoto" />
+        <meta name="publisher" content="petatoto" />
+        <meta name="copyright" content="petatoto" />
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow" />
         <meta name="category" content="slot" />
@@ -82,14 +82,14 @@ export default function RootLayout({
         <meta property="og:title" content="Petatoto : Link Slot Yang Lagi Gacor Hari Ini Dan Link Slot Minimal Depo 10K" />
         <meta property="og:description" content="Petatoto : Link Slot Yang Lagi Gacor Hari Ini Dan Link Slot Minimal Depo 10K, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta property="og:url" content={nameDomain} />
-        <meta property="og:site_name" content="18toto" />
+        <meta property="og:site_name" content="petatoto" />
         <meta property="og:locale" content="id_ID" />
         <meta property="og:image" content={nameDomain} />
         <meta property="og:image:width" content="840" />
         <meta property="og:image:height" content="480" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="18toto" />
+        <meta name="twitter:creator" content="petatoto" />
         <meta name="twitter:title" content="Petatoto : Link Slot Yang Lagi Gacor Hari Ini Dan Link Slot Minimal Depo 10K" />
         <meta name="twitter:description" content="Petatoto : Link Slot Yang Lagi Gacor Hari Ini Dan Link Slot Minimal Depo 10K, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta name="twitter:image" content={nameDomain} />
