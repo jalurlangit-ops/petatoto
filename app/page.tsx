@@ -90,10 +90,10 @@ export default function Home() {
             </div>
             <h1>petatoto 🔥 Situs Judi Resmi Deposit Dana Dan Slot Maxwin Terbesar!</h1>
             <p>
-              petatoto muncul sebagai situs resmi yang menarik perhatian para pemain slot/casino/poker/baccarat/roulette/zeus. Dikenal karena menawarkan slot Maxwin terbesar, petatoto menggabungkan rtp yang sangat akurat hingga 99%.
+              Sedang mencari link slot gacor hari ini? Petatoto adalah jawaban terbaik untuk Anda! Dengan reputasi sebagai salah satu platform slot online paling terpercaya, Petatoto menghadirkan pengalaman bermain slot yang seru, adil, dan menguntungkan. Tidak hanya menawarkan pilihan game slot dari provider terkemuka, Petatoto juga dikenal dengan tingkat RTP tinggi yang bikin peluang menang Anda semakin besar. Nikmati sensasi menang besar dengan link slot yang sudah terbukti gacor, dan jangan lewatkan promo menarik yang siap memanjakan para pemain setiap harinya
             </p>
             <p>
-              petatoto menyediakan pembayaran yang beragam dari E-wallet (Dana/Ovo/LinkAja/Sakuku/Jenius/Dll), QRIS yang cepat, serta beberapa bank national seperti BCA/BNI/MANDIRI/BRI!
+              Bagi Anda yang ingin mulai bermain tanpa perlu menguras dompet, Petatoto menawarkan link slot dengan minimal deposit hanya 10 ribu rupiah! Dengan modal kecil, Anda sudah bisa menjelajahi berbagai permainan slot favorit dan mengincar jackpot besar. Sistem transaksi yang cepat dan aman juga menjadi salah satu keunggulan platform ini, memastikan Anda fokus pada permainan tanpa khawatir soal keamanan dana. Jadi, tunggu apa lagi? Segera daftarkan diri Anda di Petatoto dan rasakan keseruan bermain slot dengan minimal modal, namun peluang menang yang maksimal
             </p>
             
             <p>
