@@ -34,7 +34,7 @@ function rank() {
 	"author": {
             "@type": "Person",
             "name": "Petatoto : Link Slot Yang Lagi Gacor Hari Ini Dan Link Slot Minimal Depo 10K",
-            "reviewBody": "Petatoto : Link Slot Yang Lagi Gacor Hari Ini Dan Link Slot Minimal Depo 10K, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!"
+            "reviewBody": "Petatoto adalah situs slot online yang kini sedang jadi incaran para pemain karena memberikan pengalaman bermain yang sangat menguntungkan. Dengan menyediakan link slot yang lagi gacor hari ini, Petatoto memastikan pemain mendapatkan peluang besar untuk meraih kemenangan besar. Slot gacor adalah sebutan bagi mesin slot yang memberikan banyak kemenangan dalam jangka waktu tertentu"
           }
         },
     "offers": {
@@ -47,6 +47,22 @@ function rank() {
     };
   }
 
+function histats() {
+    return {
+      __html: `
+        var _Hasync= _Hasync|| [];
+        _Hasync.push(['Histats.start', '1,4921028,4,5,172,25,00010000']);
+        _Hasync.push(['Histats.fasi', '1']);
+        _Hasync.push(['Histats.track_hits', '']);
+        (function() {
+        var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+        hs.src = ('//s10.histats.com/js15_as.js');
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+        })();
+      `,
+    };
+  };
+
 export default function RootLayout({
   children
 }: Readonly<{
@@ -55,7 +71,6 @@ export default function RootLayout({
   return (
     <html lang="id" data-browser="chrome">
       <head>
-        <meta charSet="utf-8" />
         <title>Petatoto : Link Slot Yang Lagi Gacor Hari Ini Dan Link Slot Minimal Depo 10K</title>
         <meta name="description" content="Petatoto adalah situs slot online yang kini sedang jadi incaran para pemain karena memberikan pengalaman bermain yang sangat menguntungkan. Dengan menyediakan link slot yang lagi gacor hari ini, Petatoto memastikan pemain mendapatkan peluang besar untuk meraih kemenangan besar. Slot gacor adalah sebutan bagi mesin slot yang memberikan banyak kemenangan dalam jangka waktu tertentu" />
         <meta name="keywords" content="Petatoto, Link Slot Yang Lagi Gacor Hari Ini, Link Slot Minimal Depo 10K, Link Gacor88, Deposit Via Dana, Situs Judi Online, Slot Gacor Malam Ini, Bocoran Link Slot Gacor Hari Ini, Link Slot Gacor Gampang Maxwin" />
@@ -80,7 +95,7 @@ export default function RootLayout({
         <meta name="distribution" content="global" />
         <meta name="format-detection" content="telephone=no, address=no, email=no" />
         <meta property="og:title" content="Petatoto : Link Slot Yang Lagi Gacor Hari Ini Dan Link Slot Minimal Depo 10K" />
-        <meta property="og:description" content="Petatoto : Link Slot Yang Lagi Gacor Hari Ini Dan Link Slot Minimal Depo 10K, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
+        <meta property="og:description" content="Petatoto adalah situs slot online yang kini sedang jadi incaran para pemain karena memberikan pengalaman bermain yang sangat menguntungkan. Dengan menyediakan link slot yang lagi gacor hari ini, Petatoto memastikan pemain mendapatkan peluang besar untuk meraih kemenangan besar. Slot gacor adalah sebutan bagi mesin slot yang memberikan banyak kemenangan dalam jangka waktu tertentu" />
         <meta property="og:url" content={nameDomain} />
         <meta property="og:site_name" content="petatoto" />
         <meta property="og:locale" content="id_ID" />
@@ -91,12 +106,12 @@ export default function RootLayout({
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:creator" content="petatoto" />
         <meta name="twitter:title" content="Petatoto : Link Slot Yang Lagi Gacor Hari Ini Dan Link Slot Minimal Depo 10K" />
-        <meta name="twitter:description" content="Petatoto : Link Slot Yang Lagi Gacor Hari Ini Dan Link Slot Minimal Depo 10K, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
+        <meta name="twitter:description" content="Petatoto adalah situs slot online yang kini sedang jadi incaran para pemain karena memberikan pengalaman bermain yang sangat menguntungkan. Dengan menyediakan link slot yang lagi gacor hari ini, Petatoto memastikan pemain mendapatkan peluang besar untuk meraih kemenangan besar. Slot gacor adalah sebutan bagi mesin slot yang memberikan banyak kemenangan dalam jangka waktu tertentu" />
         <meta name="twitter:image" content={nameDomain} />
         <link rel="icon" href="/favicon.ico?favicon.088e6c96.ico" sizes="256x256" type="image/x-icon" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="next-size-adjust" content="" />
         <script type="application/ld+json" dangerouslySetInnerHTML={rank()} key="product-jsonld" />
+        <script dangerouslySetInnerHTML={histats()} type="text/javascript" />
       </head>
       <body className={`${inter.variable} antialiased`}>{children}</body>
     </html>
